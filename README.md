@@ -11,7 +11,7 @@ Two comprehensive Jupyter notebooks  for Machine Learning and Advanced Probabili
 - **Impact:** Demonstrated mastery of foundational ML math and statistical logic, with reproducible code and clear visualizations.
   
 ### Machine Learning Analysis & Model Evaluation (MIT xPro Final Assignment 20.2)
-- **Notebook:** [Activity20.2_Notebook.ipynb](https://github.com/MacAries1/Required_Final_Assignment_20.1-Introduction_to_Machine_Learning_and_Advanced_Probability_starter/blob/main/Activity20.2_Notebook.ipynb)
+- **Notebook:** [Activity20.2_Notebook.ipynb](https://github.com/MacAries1/Required_Final_Assignment_20.1-Introduction_to_Machine_Learning_and_Advanced_Probability_starter/blob/main/Activity20.2_notebook.ipynb)
 - **Focus:** Applied machine learning techniques including classification, model tuning, and performance evaluation.
 - **Highlights:**
   - Explored multiple ML models (e.g., logistic regression, decision trees, random forests)
